@@ -1,0 +1,1803 @@
+{
+  "profiles": [
+    {
+      "id": "usr-admin-1",
+      "username": "admin",
+      "fullName": "Ustadz H. Abdullah M.Pd (Admin)",
+      "role": "admin",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.NozhWI1SYgIcnZGvQbt63XgNFl/Zkhy",
+      "avatarUrl": "",
+      "status": "aktif",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "usr-guru-1",
+      "username": "guru1",
+      "fullName": "Ustadzah Fatimah Azzahra, S.Pd.I",
+      "role": "guru",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.DKqGddkTsngwTqe4nEvssAbqLPjxfl.",
+      "avatarUrl": "",
+      "status": "aktif",
+      "groupId": "grp-tahfiz-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "usr-murid-1",
+      "username": "murid1",
+      "fullName": "Ahmad Fauzan Al-Faruq",
+      "role": "murid",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.Va006wFQ0oGnSS3wchLks7mWY2biSZy",
+      "avatarUrl": "",
+      "status": "aktif",
+      "groupId": "grp-tahfiz-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "usr-murid-2",
+      "username": "murid2",
+      "fullName": "Zahra Salsabila",
+      "role": "murid",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.Va006wFQ0oGnSS3wchLks7mWY2biSZy",
+      "avatarUrl": "",
+      "status": "aktif",
+      "groupId": "grp-tahfiz-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "usr-murid-3",
+      "username": "murid3",
+      "fullName": "Muhammad Rayhan Habibi",
+      "role": "murid",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.Va006wFQ0oGnSS3wchLks7mWY2biSZy",
+      "avatarUrl": "",
+      "status": "aktif",
+      "groupId": "grp-tahfiz-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "usr-murid-4",
+      "username": "murid4",
+      "fullName": "Aisyah Humaira",
+      "role": "murid",
+      "passwordHash": "$2b$10$PtYZaWrS5cN.RQt46nj2i.Va006wFQ0oGnSS3wchLks7mWY2biSZy",
+      "avatarUrl": "",
+      "status": "aktif",
+      "groupId": "grp-tahfiz-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    }
+  ],
+  "surahs": [
+    {
+      "number": 1,
+      "name": "Al-Fatihah",
+      "nameArabic": "الْفَاتِحَةُ",
+      "numberOfAyahs": 7,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 2,
+      "name": "Al-Baqarah",
+      "nameArabic": "الْبَقَرَةُ",
+      "numberOfAyahs": 286,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 3,
+      "name": "Ali 'Imran",
+      "nameArabic": "آلُ عِمْرَانَ",
+      "numberOfAyahs": 200,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 4,
+      "name": "An-Nisa'",
+      "nameArabic": "النِّسَاءُ",
+      "numberOfAyahs": 176,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 5,
+      "name": "Al-Ma'idah",
+      "nameArabic": "الْمَائِدَةُ",
+      "numberOfAyahs": 120,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 6,
+      "name": "Al-An'am",
+      "nameArabic": "الْأَنْعَامُ",
+      "numberOfAyahs": 165,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 7,
+      "name": "Al-A'raf",
+      "nameArabic": "الْأَعْرَافُ",
+      "numberOfAyahs": 206,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 8,
+      "name": "Al-Anfal",
+      "nameArabic": "الْأَنْفَالُ",
+      "numberOfAyahs": 75,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 9,
+      "name": "At-Taubah",
+      "nameArabic": "التَّوْبَةُ",
+      "numberOfAyahs": 129,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 10,
+      "name": "Yunus",
+      "nameArabic": "يُونُسُ",
+      "numberOfAyahs": 109,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 11,
+      "name": "Hud",
+      "nameArabic": "هُودٌ",
+      "numberOfAyahs": 123,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 12,
+      "name": "Yusuf",
+      "nameArabic": "يُوسُفُ",
+      "numberOfAyahs": 111,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 13,
+      "name": "Ar-Ra'd",
+      "nameArabic": "الرَّعْدُ",
+      "numberOfAyahs": 43,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 14,
+      "name": "Ibrahim",
+      "nameArabic": "إِبْرَاهِيمُ",
+      "numberOfAyahs": 52,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 15,
+      "name": "Al-Hijr",
+      "nameArabic": "الْحِجْرُ",
+      "numberOfAyahs": 99,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 16,
+      "name": "An-Nahl",
+      "nameArabic": "النَّحْلُ",
+      "numberOfAyahs": 128,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 17,
+      "name": "Al-Isra'",
+      "nameArabic": "الْإِسْرَاءُ",
+      "numberOfAyahs": 111,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 18,
+      "name": "Al-Kahfi",
+      "nameArabic": "الْكَهْفُ",
+      "numberOfAyahs": 110,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 19,
+      "name": "Maryam",
+      "nameArabic": "مَرْيَمُ",
+      "numberOfAyahs": 98,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 20,
+      "name": "Taha",
+      "nameArabic": "طه",
+      "numberOfAyahs": 135,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 21,
+      "name": "Al-Anbiya'",
+      "nameArabic": "الْأَنْبِيَاءُ",
+      "numberOfAyahs": 112,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 22,
+      "name": "Al-Hajj",
+      "nameArabic": "الْحَجُّ",
+      "numberOfAyahs": 78,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 23,
+      "name": "Al-Mu'minun",
+      "nameArabic": "الْمُؤْمِنُونَ",
+      "numberOfAyahs": 118,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 24,
+      "name": "An-Nur",
+      "nameArabic": "النُّورُ",
+      "numberOfAyahs": 64,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 25,
+      "name": "Al-Furqan",
+      "nameArabic": "الْفُرْقَانُ",
+      "numberOfAyahs": 77,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 26,
+      "name": "Asy-Syu'ara'",
+      "nameArabic": "الشُّعَرَاءُ",
+      "numberOfAyahs": 227,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 27,
+      "name": "An-Naml",
+      "nameArabic": "النَّمْلُ",
+      "numberOfAyahs": 93,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 28,
+      "name": "Al-Qasas",
+      "nameArabic": "الْقَصَصُ",
+      "numberOfAyahs": 88,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 29,
+      "name": "Al-'Ankabut",
+      "nameArabic": "الْعَنْكَبُوتُ",
+      "numberOfAyahs": 69,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 30,
+      "name": "Ar-Rum",
+      "nameArabic": "الرُّومُ",
+      "numberOfAyahs": 60,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 31,
+      "name": "Luqman",
+      "nameArabic": "لُقْمَانُ",
+      "numberOfAyahs": 34,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 32,
+      "name": "As-Sajdah",
+      "nameArabic": "السَّجْدَةُ",
+      "numberOfAyahs": 30,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 33,
+      "name": "Al-Ahzab",
+      "nameArabic": "الْأَحْزَابُ",
+      "numberOfAyahs": 73,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 34,
+      "name": "Saba'",
+      "nameArabic": "سَبَأٌ",
+      "numberOfAyahs": 54,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 35,
+      "name": "Fatir",
+      "nameArabic": "فَاطِرٌ",
+      "numberOfAyahs": 45,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 36,
+      "name": "Yasin",
+      "nameArabic": "يس",
+      "numberOfAyahs": 83,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 37,
+      "name": "As-Saffat",
+      "nameArabic": "الصَّافَّاتُ",
+      "numberOfAyahs": 182,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 38,
+      "name": "Sad",
+      "nameArabic": "ص",
+      "numberOfAyahs": 88,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 39,
+      "name": "Az-Zumar",
+      "nameArabic": "الزُّمَرُ",
+      "numberOfAyahs": 75,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 40,
+      "name": "Ghafir",
+      "nameArabic": "غَافِرٌ",
+      "numberOfAyahs": 85,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 41,
+      "name": "Fussilat",
+      "nameArabic": "فُصِّلَتْ",
+      "numberOfAyahs": 54,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 42,
+      "name": "Asy-Syura",
+      "nameArabic": "الشُّورَىٰ",
+      "numberOfAyahs": 53,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 43,
+      "name": "Az-Zukhruf",
+      "nameArabic": "الزُّخْرُفُ",
+      "numberOfAyahs": 89,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 44,
+      "name": "Ad-Dukhan",
+      "nameArabic": "الدُّخَانُ",
+      "numberOfAyahs": 59,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 45,
+      "name": "Al-Jasiyah",
+      "nameArabic": "الْجَاثِيَةُ",
+      "numberOfAyahs": 37,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 46,
+      "name": "Al-Ahqaf",
+      "nameArabic": "الْأَحْقَافُ",
+      "numberOfAyahs": 35,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 47,
+      "name": "Muhammad",
+      "nameArabic": "مُحَمَّدٌ",
+      "numberOfAyahs": 38,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 48,
+      "name": "Al-Fath",
+      "nameArabic": "الْفَتْحُ",
+      "numberOfAyahs": 29,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 49,
+      "name": "Al-Hujurat",
+      "nameArabic": "الْحُجُرَاتُ",
+      "numberOfAyahs": 18,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 50,
+      "name": "Qaf",
+      "nameArabic": "ق",
+      "numberOfAyahs": 45,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 51,
+      "name": "Az-Zariyat",
+      "nameArabic": "الذَّارِيَاتُ",
+      "numberOfAyahs": 60,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 52,
+      "name": "At-Tur",
+      "nameArabic": "الطُّورُ",
+      "numberOfAyahs": 49,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 53,
+      "name": "An-Najm",
+      "nameArabic": "النَّجْمُ",
+      "numberOfAyahs": 62,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 54,
+      "name": "Al-Qamar",
+      "nameArabic": "الْقَمَرُ",
+      "numberOfAyahs": 55,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 55,
+      "name": "Ar-Rahman",
+      "nameArabic": "الرَّحْمَٰنُ",
+      "numberOfAyahs": 78,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 56,
+      "name": "Al-Waqi'ah",
+      "nameArabic": "الْوَاقِعَةُ",
+      "numberOfAyahs": 96,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 57,
+      "name": "Al-Hadid",
+      "nameArabic": "الْحَدِيدُ",
+      "numberOfAyahs": 29,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 58,
+      "name": "Al-Mujadilah",
+      "nameArabic": "الْمُجَادِلَةُ",
+      "numberOfAyahs": 22,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 59,
+      "name": "Al-Hasyr",
+      "nameArabic": "الْحَشْرُ",
+      "numberOfAyahs": 24,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 60,
+      "name": "Al-Mumtahanah",
+      "nameArabic": "الْمُمْتَحَنَةُ",
+      "numberOfAyahs": 13,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 61,
+      "name": "As-Saff",
+      "nameArabic": "الصَّفُّ",
+      "numberOfAyahs": 14,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 62,
+      "name": "Al-Jumu'ah",
+      "nameArabic": "الْجُمُعَةُ",
+      "numberOfAyahs": 11,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 63,
+      "name": "Al-Munafiqun",
+      "nameArabic": "الْمُنَافِقُونَ",
+      "numberOfAyahs": 11,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 64,
+      "name": "At-Tagabun",
+      "nameArabic": "التَّغَابُنُ",
+      "numberOfAyahs": 18,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 65,
+      "name": "At-Talaq",
+      "nameArabic": "الطَّلَاقُ",
+      "numberOfAyahs": 12,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 66,
+      "name": "At-Tahrim",
+      "nameArabic": "التَّحْرِيمُ",
+      "numberOfAyahs": 12,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 67,
+      "name": "Al-Mulk",
+      "nameArabic": "الْمُلْكُ",
+      "numberOfAyahs": 30,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 68,
+      "name": "Al-Qalam",
+      "nameArabic": "الْقَلَمُ",
+      "numberOfAyahs": 52,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 69,
+      "name": "Al-Haqqah",
+      "nameArabic": "الْحَاقَّةُ",
+      "numberOfAyahs": 52,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 70,
+      "name": "Al-Ma'arij",
+      "nameArabic": "الْمَعَارِجُ",
+      "numberOfAyahs": 44,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 71,
+      "name": "Nuh",
+      "nameArabic": "نُوحٌ",
+      "numberOfAyahs": 28,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 72,
+      "name": "Al-Jinn",
+      "nameArabic": "الْجِنُّ",
+      "numberOfAyahs": 28,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 73,
+      "name": "Al-Muzzammil",
+      "nameArabic": "الْمُزَّمِّلُ",
+      "numberOfAyahs": 20,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 74,
+      "name": "Al-Muddassir",
+      "nameArabic": "الْمُدَّثِّرُ",
+      "numberOfAyahs": 56,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 75,
+      "name": "Al-Qiyamah",
+      "nameArabic": "الْقِيَامَةُ",
+      "numberOfAyahs": 40,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 76,
+      "name": "Al-Insan",
+      "nameArabic": "الْإِنْسَانُ",
+      "numberOfAyahs": 31,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 77,
+      "name": "Al-Mursalat",
+      "nameArabic": "الْمُرْسَلَاتُ",
+      "numberOfAyahs": 50,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 78,
+      "name": "An-Naba'",
+      "nameArabic": "النَّبَأُ",
+      "numberOfAyahs": 40,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 79,
+      "name": "An-Nazi'at",
+      "nameArabic": "النَّازِعَاتُ",
+      "numberOfAyahs": 46,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 80,
+      "name": "'Abasa",
+      "nameArabic": "عَبَسَ",
+      "numberOfAyahs": 42,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 81,
+      "name": "At-Takwir",
+      "nameArabic": "التَّكْوِيرُ",
+      "numberOfAyahs": 29,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 82,
+      "name": "Al-Infitar",
+      "nameArabic": "الْإِنْفِطَارُ",
+      "numberOfAyahs": 19,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 83,
+      "name": "Al-Mutaffifin",
+      "nameArabic": "الْمُطَفِّفِينَ",
+      "numberOfAyahs": 36,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 84,
+      "name": "Al-Insyiqaq",
+      "nameArabic": "الْإِنْشِقَاقُ",
+      "numberOfAyahs": 25,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 85,
+      "name": "Al-Buruj",
+      "nameArabic": "الْبُرُوجُ",
+      "numberOfAyahs": 22,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 86,
+      "name": "At-Tariq",
+      "nameArabic": "الطَّارِقُ",
+      "numberOfAyahs": 17,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 87,
+      "name": "Al-A'la",
+      "nameArabic": "الْأَعْلَىٰ",
+      "numberOfAyahs": 19,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 88,
+      "name": "Al-Gasyiyah",
+      "nameArabic": "الْغَاشِيَةُ",
+      "numberOfAyahs": 26,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 89,
+      "name": "Al-Fajr",
+      "nameArabic": "الْفَجْرُ",
+      "numberOfAyahs": 30,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 90,
+      "name": "Al-Balad",
+      "nameArabic": "الْبَلَدُ",
+      "numberOfAyahs": 20,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 91,
+      "name": "Asy-Syams",
+      "nameArabic": "الشَّمْسُ",
+      "numberOfAyahs": 15,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 92,
+      "name": "Al-Lail",
+      "nameArabic": "اللَّيْلُ",
+      "numberOfAyahs": 21,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 93,
+      "name": "Ad-Duha",
+      "nameArabic": "الضُّحَىٰ",
+      "numberOfAyahs": 11,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 94,
+      "name": "Asy-Syarh",
+      "nameArabic": "الشَّرْحُ",
+      "numberOfAyahs": 8,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 95,
+      "name": "At-Tin",
+      "nameArabic": "التِّينُ",
+      "numberOfAyahs": 8,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 96,
+      "name": "Al-'Alaq",
+      "nameArabic": "الْعَلَقُ",
+      "numberOfAyahs": 19,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 97,
+      "name": "Al-Qadr",
+      "nameArabic": "الْقَدْرُ",
+      "numberOfAyahs": 5,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 98,
+      "name": "Al-Bayyinah",
+      "nameArabic": "الْبَيِّنَةُ",
+      "numberOfAyahs": 8,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 99,
+      "name": "Az-Zalzalah",
+      "nameArabic": "الزَّلْزَلَةُ",
+      "numberOfAyahs": 8,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 100,
+      "name": "Al-'Adiyat",
+      "nameArabic": "الْعَادِيَاتُ",
+      "numberOfAyahs": 11,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 101,
+      "name": "Al-Qari'ah",
+      "nameArabic": "الْقَارِعَةُ",
+      "numberOfAyahs": 11,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 102,
+      "name": "At-Takasur",
+      "nameArabic": "التَّكَاثُرُ",
+      "numberOfAyahs": 8,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 103,
+      "name": "Al-'Asr",
+      "nameArabic": "الْعَصْرُ",
+      "numberOfAyahs": 3,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 104,
+      "name": "Al-Humazah",
+      "nameArabic": "الْهُمَزَةُ",
+      "numberOfAyahs": 9,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 105,
+      "name": "Al-Fil",
+      "nameArabic": "الْفِيلُ",
+      "numberOfAyahs": 5,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 106,
+      "name": "Quraisy",
+      "nameArabic": "قُرَيْشٌ",
+      "numberOfAyahs": 4,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 107,
+      "name": "Al-Ma'un",
+      "nameArabic": "الْمَاعُونُ",
+      "numberOfAyahs": 7,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 108,
+      "name": "Al-Kausar",
+      "nameArabic": "الْكَوْثَرُ",
+      "numberOfAyahs": 3,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 109,
+      "name": "Al-Kafirun",
+      "nameArabic": "الْكَافِرُونَ",
+      "numberOfAyahs": 6,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 110,
+      "name": "An-Nasr",
+      "nameArabic": "النَّصْرُ",
+      "numberOfAyahs": 3,
+      "revelationType": "Madaniyah"
+    },
+    {
+      "number": 111,
+      "name": "Al-Masad",
+      "nameArabic": "الْمَسَدُ",
+      "numberOfAyahs": 5,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 112,
+      "name": "Al-Ikhlas",
+      "nameArabic": "الْإِخْلَاصُ",
+      "numberOfAyahs": 4,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 113,
+      "name": "Al-Falaq",
+      "nameArabic": "الْفَلَقُ",
+      "numberOfAyahs": 5,
+      "revelationType": "Makkiyah"
+    },
+    {
+      "number": 114,
+      "name": "An-Nas",
+      "nameArabic": "النَّاسُ",
+      "numberOfAyahs": 6,
+      "revelationType": "Makkiyah"
+    }
+  ],
+  "memorization_targets": [
+    {
+      "id": "tgt-sample-1",
+      "userId": "usr-murid-1",
+      "surahNumber": 78,
+      "surahName": "An-Naba'",
+      "surahArabic": "النَّبَأُ",
+      "startAyah": 1,
+      "endAyah": 40,
+      "title": "Target Juz 30: Surah An-Naba' (1-40)",
+      "startDate": "2026-10-22",
+      "targetDate": "2026-11-05",
+      "notes": "Fokus makhraj pada ayat 10-25",
+      "status": "aktif",
+      "createdAt": "2026-10-22T02:35:41.026Z",
+      "sections": [
+        {
+          "id": "tgt-sample-1-sec-1",
+          "targetId": "tgt-sample-1",
+          "sectionNumber": 1,
+          "startAyah": 1,
+          "endAyah": 8,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-sample-1-sec-1-stg-1",
+              "sectionId": "tgt-sample-1-sec-1",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-1-stg-2",
+              "sectionId": "tgt-sample-1-sec-1",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-1-stg-3",
+              "sectionId": "tgt-sample-1-sec-1",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-1-stg-4",
+              "sectionId": "tgt-sample-1-sec-1",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-sample-1-sec-2",
+          "targetId": "tgt-sample-1",
+          "sectionNumber": 2,
+          "startAyah": 9,
+          "endAyah": 16,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-sample-1-sec-2-stg-1",
+              "sectionId": "tgt-sample-1-sec-2",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-2-stg-2",
+              "sectionId": "tgt-sample-1-sec-2",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-2-stg-3",
+              "sectionId": "tgt-sample-1-sec-2",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-2-stg-4",
+              "sectionId": "tgt-sample-1-sec-2",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-sample-1-sec-3",
+          "targetId": "tgt-sample-1",
+          "sectionNumber": 3,
+          "startAyah": 17,
+          "endAyah": 24,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-sample-1-sec-3-stg-1",
+              "sectionId": "tgt-sample-1-sec-3",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-3-stg-2",
+              "sectionId": "tgt-sample-1-sec-3",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-3-stg-3",
+              "sectionId": "tgt-sample-1-sec-3",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-3-stg-4",
+              "sectionId": "tgt-sample-1-sec-3",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-sample-1-sec-4",
+          "targetId": "tgt-sample-1",
+          "sectionNumber": 4,
+          "startAyah": 25,
+          "endAyah": 32,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-sample-1-sec-4-stg-1",
+              "sectionId": "tgt-sample-1-sec-4",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-4-stg-2",
+              "sectionId": "tgt-sample-1-sec-4",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-4-stg-3",
+              "sectionId": "tgt-sample-1-sec-4",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-4-stg-4",
+              "sectionId": "tgt-sample-1-sec-4",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-sample-1-sec-5",
+          "targetId": "tgt-sample-1",
+          "sectionNumber": 5,
+          "startAyah": 33,
+          "endAyah": 40,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-sample-1-sec-5-stg-1",
+              "sectionId": "tgt-sample-1-sec-5",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-5-stg-2",
+              "sectionId": "tgt-sample-1-sec-5",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-5-stg-3",
+              "sectionId": "tgt-sample-1-sec-5",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-sample-1-sec-5-stg-4",
+              "sectionId": "tgt-sample-1-sec-5",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tgt-1792636599228",
+      "userId": "usr-murid-1",
+      "surahNumber": 67,
+      "surahName": "Al-Mulk",
+      "surahArabic": "الْمُلْكُ",
+      "startAyah": 1,
+      "endAyah": 30,
+      "title": "Target Uji Surah Al-Mulk (1-30)",
+      "startDate": "2026-10-22",
+      "targetDate": "",
+      "notes": "",
+      "status": "aktif",
+      "createdAt": "2026-10-22T02:36:39.228Z",
+      "sections": [
+        {
+          "id": "tgt-1792636599228-sec-1",
+          "targetId": "tgt-1792636599228",
+          "sectionNumber": 1,
+          "startAyah": 1,
+          "endAyah": 6,
+          "status": "proses",
+          "stages": [
+            {
+              "id": "tgt-1792636599228-sec-1-stg-1",
+              "sectionId": "tgt-1792636599228-sec-1",
+              "stageNumber": 1,
+              "repetitions": 1,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 1,
+              "status": "proses"
+            },
+            {
+              "id": "tgt-1792636599228-sec-1-stg-2",
+              "sectionId": "tgt-1792636599228-sec-1",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-1-stg-3",
+              "sectionId": "tgt-1792636599228-sec-1",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-1-stg-4",
+              "sectionId": "tgt-1792636599228-sec-1",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-1792636599228-sec-2",
+          "targetId": "tgt-1792636599228",
+          "sectionNumber": 2,
+          "startAyah": 7,
+          "endAyah": 12,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-1792636599228-sec-2-stg-1",
+              "sectionId": "tgt-1792636599228-sec-2",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-2-stg-2",
+              "sectionId": "tgt-1792636599228-sec-2",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-2-stg-3",
+              "sectionId": "tgt-1792636599228-sec-2",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-2-stg-4",
+              "sectionId": "tgt-1792636599228-sec-2",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-1792636599228-sec-3",
+          "targetId": "tgt-1792636599228",
+          "sectionNumber": 3,
+          "startAyah": 13,
+          "endAyah": 18,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-1792636599228-sec-3-stg-1",
+              "sectionId": "tgt-1792636599228-sec-3",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-3-stg-2",
+              "sectionId": "tgt-1792636599228-sec-3",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-3-stg-3",
+              "sectionId": "tgt-1792636599228-sec-3",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-3-stg-4",
+              "sectionId": "tgt-1792636599228-sec-3",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-1792636599228-sec-4",
+          "targetId": "tgt-1792636599228",
+          "sectionNumber": 4,
+          "startAyah": 19,
+          "endAyah": 24,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-1792636599228-sec-4-stg-1",
+              "sectionId": "tgt-1792636599228-sec-4",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-4-stg-2",
+              "sectionId": "tgt-1792636599228-sec-4",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-4-stg-3",
+              "sectionId": "tgt-1792636599228-sec-4",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-4-stg-4",
+              "sectionId": "tgt-1792636599228-sec-4",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        },
+        {
+          "id": "tgt-1792636599228-sec-5",
+          "targetId": "tgt-1792636599228",
+          "sectionNumber": 5,
+          "startAyah": 25,
+          "endAyah": 30,
+          "status": "belum",
+          "stages": [
+            {
+              "id": "tgt-1792636599228-sec-5-stg-1",
+              "sectionId": "tgt-1792636599228-sec-5",
+              "stageNumber": 1,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 1,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-5-stg-2",
+              "sectionId": "tgt-1792636599228-sec-5",
+              "stageNumber": 2,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 2,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-5-stg-3",
+              "sectionId": "tgt-1792636599228-sec-5",
+              "stageNumber": 3,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 3,
+              "xpEarned": 0,
+              "status": "belum"
+            },
+            {
+              "id": "tgt-1792636599228-sec-5-stg-4",
+              "sectionId": "tgt-1792636599228-sec-5",
+              "stageNumber": 4,
+              "repetitions": 0,
+              "maxRepetitions": 5,
+              "xpPerRep": 4,
+              "xpEarned": 0,
+              "status": "belum"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "murajaah_sessions": [
+    {
+      "id": "mrj-1792636599243",
+      "userId": "usr-murid-1",
+      "surahNumber": 78,
+      "surahName": "Surah An-Naba'",
+      "repetitions": 75,
+      "maxRepetitions": 75,
+      "status": "selesai",
+      "xpAwarded": 300,
+      "startedAt": "2026-10-22T02:36:39.243Z",
+      "completedAt": "2026-10-22T02:36:39.448Z"
+    }
+  ],
+  "xp_transactions": [
+    {
+      "id": "tx-init-1",
+      "userId": "usr-murid-1",
+      "transactionType": "hafalan",
+      "amount": 250,
+      "reason": "Penyelesaian Target Surah An-Naba' Ayat 1-40",
+      "sourceActivity": "memorization_target",
+      "createdAt": "2026-10-17T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-2",
+      "userId": "usr-murid-1",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Sesi Murajaah 75x Pengulangan Surah An-Naba'",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-19T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-3",
+      "userId": "usr-murid-1",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Sesi Murajaah 75x Pengulangan Surah An-Nazi'at",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-21T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-4",
+      "userId": "usr-murid-1",
+      "transactionType": "bonus_guru",
+      "amount": 100,
+      "reason": "Konsisten murajaah harian dengan tajwid yang fasih",
+      "sourceActivity": "teacher_bonus",
+      "grantedBy": "usr-guru-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-5",
+      "userId": "usr-murid-2",
+      "transactionType": "hafalan",
+      "amount": 250,
+      "reason": "Penyelesaian Target Surah Al-Mulk",
+      "sourceActivity": "memorization_target",
+      "createdAt": "2026-10-15T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-6",
+      "userId": "usr-murid-2",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Sesi Murajaah 75x Pengulangan",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-18T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-7",
+      "userId": "usr-murid-2",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Sesi Murajaah 75x Pengulangan",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-20T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-8",
+      "userId": "usr-murid-2",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Sesi Murajaah 75x Pengulangan",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-21T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-9",
+      "userId": "usr-murid-2",
+      "transactionType": "hafalan",
+      "amount": 250,
+      "reason": "Penyelesaian Target Surah Al-Qalam",
+      "sourceActivity": "memorization_target",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-10",
+      "userId": "usr-murid-2",
+      "transactionType": "bonus_guru",
+      "amount": 250,
+      "reason": "Tajwid dan fashahah makharijul huruf istimewa",
+      "sourceActivity": "teacher_bonus",
+      "grantedBy": "usr-guru-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-11",
+      "userId": "usr-murid-3",
+      "transactionType": "hafalan",
+      "amount": 1000,
+      "reason": "Penyelesaian 4 Target Hafalan Juz 29",
+      "sourceActivity": "memorization_target",
+      "createdAt": "2026-10-12T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-12",
+      "userId": "usr-murid-3",
+      "transactionType": "murajaah",
+      "amount": 1500,
+      "reason": "5 Sesi Murajaah 75x berturut-turut",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-19T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-13",
+      "userId": "usr-murid-3",
+      "transactionType": "bonus_guru",
+      "amount": 300,
+      "reason": "Teladan kedisiplinan setoran halaqah",
+      "sourceActivity": "teacher_bonus",
+      "grantedBy": "usr-guru-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-14",
+      "userId": "usr-murid-4",
+      "transactionType": "hafalan",
+      "amount": 1500,
+      "reason": "Penyelesaian Juz 30 Penuh",
+      "sourceActivity": "memorization_target",
+      "createdAt": "2026-10-07T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-15",
+      "userId": "usr-murid-4",
+      "transactionType": "murajaah",
+      "amount": 2400,
+      "reason": "8 Sesi Murajaah 75x Pengulangan",
+      "sourceActivity": "murajaah_session",
+      "createdAt": "2026-10-17T02:35:40.974Z"
+    },
+    {
+      "id": "tx-init-16",
+      "userId": "usr-murid-4",
+      "transactionType": "bonus_guru",
+      "amount": 600,
+      "reason": "Juara 1 Musabaqah Hifzil Quran Tingkat Daerah",
+      "sourceActivity": "teacher_bonus",
+      "grantedBy": "usr-guru-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "tx-rep-1792636599237",
+      "userId": "usr-murid-1",
+      "transactionType": "hafalan",
+      "amount": 1,
+      "reason": "Pengulangan ke-1 Tahap 1 (Bagian 1) - Al-Mulk",
+      "sourceActivity": "stage_repetition",
+      "activityId": "tgt-1792636599228-sec-1-stg-1",
+      "createdAt": "2026-10-22T02:36:39.237Z"
+    },
+    {
+      "id": "tx-mrj-1792636599448",
+      "userId": "usr-murid-1",
+      "transactionType": "murajaah",
+      "amount": 300,
+      "reason": "Penyelesaian Murajaah 75x Pengulangan (Surah An-Naba')",
+      "sourceActivity": "murajaah_session",
+      "activityId": "mrj-1792636599243",
+      "createdAt": "2026-10-22T02:36:39.448Z"
+    },
+    {
+      "id": "tx-bonus-1792636599456",
+      "userId": "usr-murid-1",
+      "transactionType": "bonus_guru",
+      "amount": 150,
+      "reason": "Uji coba apresiasi makharijul huruf fasih",
+      "sourceActivity": "teacher_bonus",
+      "grantedBy": "usr-guru-1",
+      "createdAt": "2026-10-22T02:36:39.456Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-1",
+      "userId": "usr-murid-1",
+      "localDate": "2026-10-22",
+      "recordedAt": "2026-10-22T02:35:41.027Z",
+      "status": "hadir",
+      "recordedBy": "usr-murid-1",
+      "notes": "Hadir mandiri di aplikasi"
+    },
+    {
+      "id": "att-2",
+      "userId": "usr-murid-2",
+      "localDate": "2026-10-22",
+      "recordedAt": "2026-10-22T02:35:41.027Z",
+      "status": "hadir",
+      "recordedBy": "usr-murid-2"
+    }
+  ],
+  "daily_learning_activity": [
+    {
+      "id": "dla-1",
+      "userId": "usr-murid-1",
+      "localDate": "2026-10-22",
+      "activeLearning": true,
+      "repCount": 9,
+      "murajaahReps": 150,
+      "summary": "Sesi murajaah 75x pengulangan selesai"
+    }
+  ],
+  "teacher_notes": [
+    {
+      "id": "note-1",
+      "teacherId": "usr-guru-1",
+      "teacherName": "Ustadzah Fatimah Azzahra, S.Pd.I",
+      "studentId": "usr-murid-1",
+      "message": "Alhamdulillah, kelancaran hafalanmu semakin mantap. Terus pertahankan ritme murajaah 75x setiap ba'da Maghrib!",
+      "createdAt": "2026-10-21T02:35:41.027Z",
+      "isRead": false
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "userId": "usr-murid-1",
+      "title": "Bonus XP Diterima!",
+      "message": "Ustadzah Fatimah memberikan bonus +100 XP: \"Konsisten murajaah harian dengan tajwid yang fasih\"",
+      "type": "bonus",
+      "isRead": false,
+      "createdAt": "2026-10-22T02:35:41.027Z"
+    },
+    {
+      "id": "notif-2",
+      "userId": "usr-murid-1",
+      "title": "Selamat Naik Rank!",
+      "message": "Kamu telah mencapai Rank Silver II (950 XP). Terus melangkah menuju Silver III!",
+      "type": "rank_up",
+      "isRead": false,
+      "createdAt": "2026-10-22T02:35:41.027Z"
+    },
+    {
+      "id": "notif-rank-1792636599448",
+      "userId": "usr-murid-1",
+      "title": "Selamat Naik Rank! 🏆",
+      "message": "Mubarak! Kamu telah naik rank ke Silver III berkat istiqomah murajaah!",
+      "type": "rank_up",
+      "isRead": false,
+      "createdAt": "2026-10-22T02:36:39.448Z"
+    },
+    {
+      "id": "notif-mrj-1792636599448",
+      "userId": "usr-murid-1",
+      "title": "Murajaah 75x Tuntas! 🌟",
+      "message": "Alhamdulillah! Sesi murajaah 75x pengulangan telah selesai. Kamu mendapatkan +300 XP!",
+      "type": "murajaah_completed",
+      "isRead": false,
+      "createdAt": "2026-10-22T02:36:39.448Z"
+    },
+    {
+      "id": "notif-bonus-1792636599456",
+      "userId": "usr-murid-1",
+      "title": "Bonus +150 XP dari Ustadzah Fatimah Azzahra, S.Pd.I!",
+      "message": "Catatan Guru: \"Uji coba apresiasi makharijul huruf fasih\"",
+      "type": "bonus",
+      "isRead": false,
+      "createdAt": "2026-10-22T02:36:39.456Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "grp-tahfiz-1",
+      "name": "Halaqah Tahfiz Al-Ikhlas (Ikhwan & Akhwat)",
+      "description": "Kelompok hafalan Al-Qur'an intensif bimbingan Ustadzah Fatimah",
+      "teacherId": "usr-guru-1",
+      "createdAt": "2026-10-22T02:35:40.974Z"
+    }
+  ],
+  "teacher_student_assignments": [
+    {
+      "id": "asg-1",
+      "teacherId": "usr-guru-1",
+      "studentId": "usr-murid-1",
+      "assignedAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "asg-2",
+      "teacherId": "usr-guru-1",
+      "studentId": "usr-murid-2",
+      "assignedAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "asg-3",
+      "teacherId": "usr-guru-1",
+      "studentId": "usr-murid-3",
+      "assignedAt": "2026-10-22T02:35:40.974Z"
+    },
+    {
+      "id": "asg-4",
+      "teacherId": "usr-guru-1",
+      "studentId": "usr-murid-4",
+      "assignedAt": "2026-10-22T02:35:40.974Z"
+    }
+  ],
+  "inactivity_exemptions": [],
+  "audit_logs": [
+    {
+      "id": "aud-init-1",
+      "actorId": "usr-admin-1",
+      "actorName": "System Setup",
+      "action": "INITIALIZE_SYSTEM",
+      "targetType": "SYSTEM",
+      "targetId": "root",
+      "details": "Sistem HIFZUP diinisialisasi dengan 114 surah dan 20 tingkatan rank",
+      "createdAt": "2026-10-22T02:35:41.027Z"
+    },
+    {
+      "id": "aud-tgt-1792636599229",
+      "actorId": "usr-murid-1",
+      "actorName": "murid1",
+      "action": "CREATE_TARGET",
+      "targetType": "MEMORIZATION_TARGET",
+      "targetId": "tgt-1792636599228",
+      "details": "Membuat target hafalan Surah Al-Mulk ayat 1-30",
+      "createdAt": "2026-10-22T02:36:39.229Z"
+    },
+    {
+      "id": "aud-bonus-1792636599456",
+      "actorId": "usr-guru-1",
+      "actorName": "Ustadzah Fatimah Azzahra, S.Pd.I",
+      "action": "GRANT_BONUS_XP",
+      "targetType": "STUDENT_XP",
+      "targetId": "usr-murid-1",
+      "details": "Memberi bonus +150 XP kepada Ahmad Fauzan Al-Faruq. Alasan: Uji coba apresiasi makharijul huruf fasih",
+      "createdAt": "2026-10-22T02:36:39.456Z"
+    }
+  ],
+  "user_achievements": [
+    {
+      "id": "uach-1",
+      "userId": "usr-murid-1",
+      "achievementCode": "FIRST_MURAJAAH",
+      "unlockedAt": "2026-10-22T02:35:41.027Z"
+    },
+    {
+      "id": "uach-2",
+      "userId": "usr-murid-1",
+      "achievementCode": "RANK_SILVER",
+      "unlockedAt": "2026-10-22T02:35:41.027Z"
+    }
+  ],
+  "system_config": {
+    "maxTeacherBonusXp": 500,
+    "timezone": "Asia/Makassar",
+    "inactivitySchedule": [
+      {
+        "day": 1,
+        "cumulativePenalty": 0
+      },
+      {
+        "day": 2,
+        "cumulativePenalty": 0
+      },
+      {
+        "day": 3,
+        "cumulativePenalty": 25
+      },
+      {
+        "day": 4,
+        "cumulativePenalty": 60
+      },
+      {
+        "day": 5,
+        "cumulativePenalty": 100
+      },
+      {
+        "day": 6,
+        "cumulativePenalty": 145
+      },
+      {
+        "day": 7,
+        "cumulativePenalty": 200
+      }
+    ]
+  }
+}

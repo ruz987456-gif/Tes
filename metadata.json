@@ -1,0 +1,6 @@
+{
+  "name": "HIFZUP - Manajemen Hafalan Al-Qur'an",
+  "description": "Aplikasi Manajemen Hafalan Al-Qur'an dengan Sistem XP, 20 Rank, Murajaah, Absensi, dan Dashboard Guru. Hafal. Murajaah. Naik Rank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
